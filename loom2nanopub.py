@@ -311,7 +311,7 @@ def generate_study_trig(record: LoomRecord, orcid: str, name: str) -> str:
         label += f" ({record.paper_doi})"
 
     trig = f"""@prefix this: <http://purl.org/nanopub/temp/{study_id}> .
-@prefix sub: <http://purl.org/nanopub/temp/{study_id}#> .
+@prefix sub: <http://purl.org/nanopub/temp/{study_id}/> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
@@ -404,7 +404,7 @@ def generate_outcome_trig(record: LoomRecord, analysis: AnalysisInfo,
     proof_url = f"{record.gitlab_url}/-/raw/main/{analysis.json_file}" if analysis.json_file else ""
 
     trig = f"""@prefix this: <http://purl.org/nanopub/temp/{outcome_id}> .
-@prefix sub: <http://purl.org/nanopub/temp/{outcome_id}#> .
+@prefix sub: <http://purl.org/nanopub/temp/{outcome_id}/> .
 @prefix np: <http://www.nanopub.org/nschema#> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
