@@ -1,0 +1,36 @@
+# Knowledge Loom Resource IDs (32 records)
+# Format: LOOM_RESOURCE_ID  |  statements  |  title
+# URL: https://knowledgeloom.tib.eu/resource/<ID>
+#
+a03gjbxh5v         4  Analysis of difference for selected characteristics of Iris species
+azrrexecc8         2  Comparative statistical analysis of feather corticosterone concentrations
+4celerh11n         4  Comparison of predictability and determinants of grassland restoration
+4opi5wp0wv         4  Comparison of the Symbiodiniaceae community structures in Pocillopora
+l9limp295h         7  Contrasting short- and long-distance foraging trips reflect environmental conditions
+vjea9aobg7         2  Determinants of Bactrocera oleae abundance in olive groves  DONE
+s8n85i6gr9        22  Determinants of diversity and dissimilarity of antagonistic interactions
+2yslxrti5f        13  Determinants of food security, dietary diversity and migration intentions
+dvomemx0fi         3  Determinants of photochemical effiency of Symbiodiniaceae in the coral
+v69s91wwxw         2  Differences in thermal performance in two populations of the coral Orbicella
+a16yxakpxy         8  Evaluating the quality and usability of smart filters in the scholarly domain
+0zqzu2indw         5  Expert evaluation of methods for dynamic facet generation
+pzqji7igi1         4  How terrorist violence in Burkina Faso affects household dietary diversity
+di8ks7yzjv        18  Impact of COVID-19 lockdowns on PM2.5 concentration in urban air
+1urjn2l6ki        30  Interactive effects of climate and land-use intensity on pollinator diversity
+eo4lax8i6g         4  Landscape-dependent effects of Brassica oleracea mixtures on insect pests
+yu9t6lsh75         8  Meta analysis on trends in D. villosus spread and their impact on communities
+dphvhnc7wm         9  Morphological and environmental data for Red-billed Tropicbirds across colonies
+r8epr6rffa         6  Performance of Falcon 2.0 as an entity and relation linking tool
+i2zkt2iyqb         2  Performance of LSTM and MLP models for argument mining evaluated using F1 score
+r003tf6i1o         3  Performance of selected large language models for three ontology learning tasks
+486j5lkhje         3  Performance of selected models for the recognition of 16 named entities
+xsjuxcg5zm        16  Performance of selected pre-trained large language models for synonym detection
+xja4mvc7dq         6  Performance of various machine learning models for landslide susceptibility
+ltnqkoc19z         3  Structural comparison of flower-visitation metanetworks and pollen-transport
+gh8fjqx23d         3  The conditional effect of influx of internally displaced persons on food security
+kvztznmj32         8  The Economic Impact and Distributional Effects of Nature-based Solutions
+iqpus16ylw         1  The effect of COVID-19 containment on atmospheric PM2.5 concentration
+is6x5x5li6         1  The effects of landscape properties on the abundance of pests in Brassica
+vkc67erdhu         7  The influence of landscape context and local-scale garden features
+agepf6mmos         5  The (interactive) effects of disease exposure and nutrient enrichment
+xfrfb7zieo         6  The legacy effect of Cover Crops on soil structure amelioration
